@@ -1,4 +1,10 @@
 ---
+title: "Akashi Records — Library"
+version: "1.0"
+description: "Canonical ontology–philosophy–theology–science archive based on the OCAM model."
+layout: default
+
+---
 # Akashi Records — Library (v1.0)
 
 This repository contains the canonical Akashi Records Library: a structured,
